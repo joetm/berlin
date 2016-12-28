@@ -1,0 +1,3 @@
+[submodule "vizicities"]
+	path = vizicities
+	url = https://github.com/UDST/vizicities.git
