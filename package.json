@@ -1,0 +1,24 @@
+{
+  "name": "berlin",
+  "version": "0.0.1",
+  "description": "Berlin ======",
+  "main": "berlin.js",
+  "dependencies": {
+    "gsap": "^1.19.0",
+    "three": "0.77.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joetm/berlin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joetm/berlin/issues"
+  },
+  "homepage": "https://github.com/joetm/berlin#readme"
+}
